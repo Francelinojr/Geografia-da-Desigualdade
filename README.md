@@ -7,11 +7,11 @@ Este repositório apresenta uma análise de dados sobre a desigualdade de gêner
 
 A análise compara grandes polos educacionais com seus entornos regionais, usando município e microrregião como unidades de observação. Os dados utilizados cobrem o período de 2010 a 2024 e têm como principal fonte os microdados do Censo da Educação Superior do INEP.
 
-Objetivo geral
+## Objetivo geral
 
 Mapear e comparar padrões de participação feminina em cursos de STEM nas regiões Nordeste e Sudeste, identificando perfis semelhantes por meio de técnicas de clusterização.
 
-Objetivos específicos
+## Objetivos específicos
 
 Consolidar e tratar bases públicas como INEP e IBGE, filtrando cursos de STEM por gênero, localização e tipo de instituição.
 
@@ -29,7 +29,7 @@ Caracterizar os grupos formados a partir de variáveis socioeconômicas e educac
 
 Visualizar os resultados em mapas e gráficos comparativos.
 
-Metodologia
+## Metodologia
 
 A abordagem combina análise exploratória de dados com técnicas de aprendizado de máquina não supervisionado. Foram utilizados métodos de clusterização, como K-Means, para identificar padrões latentes na participação feminina em STEM.
 
