@@ -35,3 +35,49 @@ A linha do tempo abaixo revela a trajetória da participação feminina nas duas
 <img width="1500" height="900" alt="pct_mulheres_stem_tipo_IES_2024" src="https://github.com/user-attachments/assets/0479e4f0-7c0c-4791-a2ca-e838f71fd022" />
 <img width="1500" height="900" alt="evolucao_pct_mulheres_stem_NE_SE" src="https://github.com/user-attachments/assets/809a5c84-b067-4163-b9ac-fe4d4ae4892d" />
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/d1a96b59-26f3-48d8-bf2d-d66dd95a9ee2" />
+
+Tabela de Dados (Evolução):
+     ANO NO_REGIAO    QT_MAT  QT_MAT_FEM  PCT_MULHERES
+0   2010  Nordeste  147232.0     43256.0     29.379483
+1   2010   Sudeste  582439.0    155855.0     26.759025
+2   2011  Nordeste  171998.0     51466.0     29.922441
+3   2011   Sudeste  666840.0    183548.0     27.525043
+4   2012  Nordeste  200121.0     61860.0     30.911299
+5   2012   Sudeste  731630.0    208762.0     28.533822
+6   2013  Nordeste  230045.0     72318.0     31.436458
+7   2013   Sudeste  802633.0    235560.0     29.348407
+8   2014  Nordeste  260457.0     83071.0     31.894324
+9   2014   Sudeste  883253.0    263837.0     29.871056
+10  2015  Nordeste  283502.0     90707.0     31.995189
+11  2015   Sudeste  904216.0    275287.0     30.444827
+12  2016  Nordeste  289322.0     92314.0     31.907010
+13  2016   Sudeste  879720.0    269940.0     30.684763
+14  2017  Nordeste  289320.0     92022.0     31.806304
+15  2017   Sudeste  863151.0    262601.0     30.423530
+16  2018  Nordeste  288106.0     89359.0     31.016015
+17  2018   Sudeste  835003.0    249726.0     29.907198
+18  2019  Nordeste  276050.0     84369.0     30.562941
+19  2019   Sudeste  787123.0    231685.0     29.434409
+20  2020  Nordeste  259369.0     77352.0     29.823148
+21  2020   Sudeste  776019.0    223937.0     28.857154
+22  2021  Nordeste  264517.0     77835.0     29.425330
+23  2021   Sudeste  772810.0    218130.0     28.225566
+24  2022  Nordeste  287260.0     82333.0     28.661491
+25  2022   Sudeste  820504.0    226978.0     27.663241
+26  2023  Nordeste  299659.0     83830.0     27.975132
+27  2023   Sudeste  889237.0    241873.0     27.200060
+28  2024  Nordeste  318961.0     87457.0     27.419340
+29  2024   Sudeste  926305.0    249824.0     26.969951
+
+Municípios com menor participação feminina em STEM (ano de referência):
+      NO_REGIAO SG_UF          NO_MUNICIPIO  PCT_FEM_STEM  VOLUME_STEM  PCT_PUBLICA LABEL
+13776  Nordeste    AL                Anadia           0.0          1.0          0.0     C
+13848  Nordeste    BA               Brejões           0.0          1.0          0.0     C
+14418  Nordeste    PE             Dormentes           0.0         10.0          0.0     C
+14897   Sudeste    MG                 Ijaci           0.0          1.0          0.0     C
+15689   Sudeste    SP  Vista Alegre do Alto           0.0          1.0          0.0     C
+13780  Nordeste    AL               Batalha           0.0          3.0          0.0     C
+13783  Nordeste    AL          Campo Alegre           0.0         12.0          0.0     C
+13784  Nordeste    AL    Colônia Leopoldina           0.0          2.0          0.0     C
+13788  Nordeste    AL          Feira Grande           0.0          1.0          0.0     C
+13830  Nordeste    BA      Amélia Rodrigues           0.0          3.0          0.0     C
