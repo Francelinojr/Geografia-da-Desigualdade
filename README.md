@@ -1,41 +1,29 @@
 # Geografia da Desigualdade: Um Estudo de Clusters sobre a Participação Feminina em STEM no Nordeste vs. Sudeste
-Geografia da Desigualdade
-Participação feminina em cursos de STEM no ensino superior brasileiro
-Nordeste vs. Sudeste | 2010–2024
 
-Este repositório apresenta uma análise de dados sobre a desigualdade de gênero em cursos de STEM no ensino superior brasileiro. O foco está na participação feminina, considerando diferenças regionais entre Nordeste e Sudeste, o papel da localização geográfica e as distinções entre instituições públicas e privadas.
+Este artigo apresenta uma análise aprofundada da disparidade de gênero na área de Ciência, Tecnologia, Engenharia e Matemática (STEM) no Ensino Superior brasileiro, com foco na comparação entre as regiões Nordeste e Sudeste no período de 2010 a 2024.
 
-A análise compara grandes polos educacionais com seus entornos regionais, usando município e microrregião como unidades de observação. Os dados utilizados cobrem o período de 2010 a 2024 e têm como principal fonte os microdados do Censo da Educação Superior do INEP.
+A análise se concentra no Índice de Paridade de Gênero (IPG), que mede a razão entre o número de matrículas femininas e masculinas (IPG = Matrículas Femininas / Matrículas Masculinas). Um IPG igual a 1.0 indica paridade, enquanto valores abaixo de 1.0 indicam maior participação masculina.
 
-## Objetivo geral
+## 1. Metodologia e Classificação de Cursos STEM
 
-Mapear e comparar padrões de participação feminina em cursos de STEM nas regiões Nordeste e Sudeste, identificando perfis semelhantes por meio de técnicas de clusterização.
+Os dados utilizados provêm dos microdados do Censo da Educação Superior do INEP. A classificação dos cursos STEM foi realizada com base nas áreas gerais CINE/OCDE, conforme detalhado na tabela a seguir:
 
-## Objetivos específicos
+Código CINE                      Área de Estudo
+05                               Ciências Naturais, Matemática e Estatística
+06                               Tecnologias da Informação e Comunicação (TIC)
+07                               Engenharia, Produção e Construção
 
-Consolidar e tratar bases públicas como INEP e IBGE, filtrando cursos de STEM por gênero, localização e tipo de instituição.
+## 2. Evolução da Disparidade Regional (2010-2024)
 
-Analisar a evolução temporal da participação feminina entre 2010 e 2024.
+A análise da série histórica revela a trajetória da participação feminina nas duas regiões. O gráfico de evolução do IPG mostra que, historicamente, o Nordeste tem mantido um índice de paridade ligeiramente superior ao Sudeste, desafiando a percepção de que regiões mais desenvolvidas teriam indicadores de diversidade melhores.
 
-Avaliar a distribuição espacial da inclusão, identificando concentração ou dispersão regional.
+Gráfico 1: Evolução do Índice de Paridade de Gênero (IPG) em STEM: Nordeste vs Sudeste
 
-Comparar instituições públicas e privadas, com foco especial no ano de 2024.
+Nota: O gráfico abaixo representa a evolução temporal da participação feminina em STEM, comparando as regiões Nordeste e Sudeste. A linha tracejada em 1.0 indica a paridade de gênero.
 
-Realizar análise exploratória dos dados para comparação direta entre as regiões.
+<img width="1500" height="900" alt="Evolução do IPG em STEM" src="https://github.com/user-attachments/assets/809a5c84-b067-4163-b9ac-fe4d4ae4892d" />
 
-Aplicar algoritmos de clusterização para agrupar microrregiões ou municípios com comportamentos semelhantes.
 
-Caracterizar os grupos formados a partir de variáveis socioeconômicas e educacionais.
-
-Visualizar os resultados em mapas e gráficos comparativos.
-
-## Metodologia
-
-A abordagem combina análise exploratória de dados com técnicas de aprendizado de máquina não supervisionado. Foram utilizados métodos de clusterização, como K-Means, para identificar padrões latentes na participação feminina em STEM.
-
-A principal métrica analisada é o percentual de mulheres matriculadas em cursos de STEM, além do volume total de matrículas e da proporção entre instituições públicas e privadas.
-
-## 📈 1. A Visão Macro: Evolução Temporal (2010-2024)
 
 A linha do tempo abaixo revela a trajetória da participação feminina nas duas regiões comparadas, baseada na agregação dos microdados do INEP.
 
