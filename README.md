@@ -69,6 +69,13 @@ A linha do tempo abaixo revela a trajetória da participação feminina nas duas
 - **A Queda Geral**: Note que ambas as linhas estão caindo desde 2016/2017. A participação feminina parece estar regredindo nos últimos anos.
   
 <img width="1500" height="900" alt="evolucao_pct_mulheres_stem_NE_SE" src="https://github.com/user-attachments/assets/809a5c84-b067-4163-b9ac-fe4d4ae4892d" />
+
+- **Cluster A (Vermelho)**: Grandes Polos de Ensino Privado (Alto volume).
+
+- **Cluster B (Azul)**: Municípios Intermediários (Melhor % de mulheres que o C).
+
+- **Cluster C (Roxo)**: Municípios com Baixa Participação Feminina em STEM (A maioria crítica).
+
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/d1a96b59-26f3-48d8-bf2d-d66dd95a9ee2" />
 
 Tabela de Dados (Evolução):
