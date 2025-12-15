@@ -28,63 +28,9 @@ A linha do tempo abaixo revela a trajetória da participação feminina nas duas
 <img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2023" src="https://github.com/user-attachments/assets/79022c55-c882-47f3-afba-e72a5884ee2a" />
 <img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2024" src="https://github.com/user-attachments/assets/eac81d6d-f7b2-4f28-8e6f-47a8a4bd23c1" />
 
-
-
-
-
-
-
-
-
-### 🔍 Insight Temporal:
-- **Liderança Histórica do Nordeste**: O Nordeste (linha laranja) mantém, historicamente, uma média percentual de mulheres em STEM superior à do Sudeste.
-- **Estagnação Pós-2016**: Nota-se um crescimento até meados de 2016, seguido por um platô e uma leve tendência de queda nos anos recentes (2020-2024).
-
-## 🗺️ 2. O Fenômeno da Concentração: Município vs. Microrregião
-
-Esta análise utiliza uma comparação geográfica para medir a desigualdade regional:
-
-- 🟥 **Município**: Representa o polo central/local.
-- 🟦 **Microrregião**: Representa a média da região geográfica imediata.
-
-### Série Recente (2019 - 2024)
-
-| Ano   | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
-|-------|------|------|------|------|------|------|
-| **Padrão Nordeste (Concentração)** | Município > Microrregião | Município > Microrregião | Município > Microrregião | Município > Microrregião | Município > Microrregião | Município > Microrregião |
-| **Padrão Sudeste (Capilaridade)**  | Microrregião > Município | Microrregião > Município | Microrregião > Município | Microrregião > Município | Microrregião > Município | Microrregião > Município |
-
-### 🔍 Diagnóstico de Desigualdade:
-- **Padrão Nordeste (Concentração)**: Em todos os anos analisados, a barra do Município é consistentemente maior ou igual à da Microrregião. Isso sugere o fenômeno de "Ilhas de Excelência": a mulher em STEM está no grande centro; ao sair dele para o interior da microrregião, a representatividade cai.
-- **Padrão Sudeste (Capilaridade)**: A barra da Microrregião frequentemente supera a do Município (vide 2021, 2022, 2024). Isso indica um sistema educacional mais distribuído, onde cidades menores no entorno dos grandes polos também possuem forte inserção feminina.
-
-## 🏫 3. Deep Dive 2024: Setor Público vs. Privado
-
-Ao abrir os dados de 2024 por categoria administrativa, nota-se uma diferença significativa na inclusão entre os setores.
-
-### Visão Geral por Tipo de IES
-As instituições públicas lideram a inclusão percentual em ambas as regiões, com destaque para o Nordeste, onde a diferença entre pública e privada é mais acentuada.
-
-### Destaques Regionais (Top Microrregiões)
-
-#### Nordeste (Pública)
-- **Pública**: Microrregiões como Santo Antônio de Jesus e Vitória da Conquista lideram a participação na rede pública.
-- **Privada**: Agreste de Lagarto apresenta um índice de 100% (provável outlier estatístico ou curso específico predominante), seguido por Manhuaçu e Tobias Barreto.
-
-#### Sudeste (Pública)
-- **Pública**: Itaguaí e Alfenas mostram forte presença feminina, superando 45%.
-- **Privada**: Destaques para microrregiões como Goiânia (inserida no contexto Sudeste/fronteira na base) e Guanhães.
-
-## 🛠 Metodologia e Tecnologias
-
-Todo o processamento de dados foi realizado utilizando Python. O pipeline de dados inclui:
-
-- **Fonte de Dados**: Microdados do Censo da Educação Superior (INEP), processados via script `app.py`.
-- **Definição de STEM**: Filtragem baseada na classificação CO_CINE_AREA_GERAL (códigos 05, 06, 07) ou busca semântica por palavras-chave (Engenharia, Computação, Ciências Naturais, Matemática).
-- **Clusterização**: Uso de K-Means (Scikit-Learn) para agrupar municípios com base em volume de matrículas e percentual de mulheres, gerando os insights de "Município Representativo".
-- **Bibliotecas**: Pandas (ETL), Matplotlib (Visualização), Scikit-learn (Machine Learning).
-
-## 🚀 Conclusão
-
-Os dados de 2024 reafirmam que, embora o Nordeste possua percentuais médios mais altos de mulheres em STEM, a região sofre com uma concentração geográfica mais aguda em polos específicos. O Sudeste, apesar de médias percentuais ligeiramente menores no agregado, oferece um ecossistema mais distribuído territorialmente, especialmente quando analisadas as microrregiões.
-
+<img width="1500" height="900" alt="microrregiao_Sudeste_Privada_2024" src="https://github.com/user-attachments/assets/386f9fd9-7af7-445f-85bf-464b90ffe1db" />
+<img width="1500" height="900" alt="microrregiao_Sudeste_Pública_2024" src="https://github.com/user-attachments/assets/cfd80dc5-e7b5-41ba-9b2b-77dfc1221742" />
+<img width="1500" height="900" alt="microrregiao_Nordeste_Privada_2024" src="https://github.com/user-attachments/assets/39a48c49-15c0-436f-b6a9-94546531f19d" />
+<img width="1500" height="900" alt="microrregiao_Nordeste_Pública_2024" src="https://github.com/user-attachments/assets/30208d94-0da7-4a96-beab-4bd77ec17447" />
+<img width="1500" height="900" alt="pct_mulheres_stem_tipo_IES_2024" src="https://github.com/user-attachments/assets/0479e4f0-7c0c-4791-a2ca-e838f71fd022" />
+<img width="1500" height="900" alt="evolucao_pct_mulheres_stem_NE_SE" src="https://github.com/user-attachments/assets/809a5c84-b067-4163-b9ac-fe4d4ae4892d" />
