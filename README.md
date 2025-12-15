@@ -13,6 +13,26 @@ Este repositório apresenta uma análise de dados focada na disparidade de gêne
 A linha do tempo abaixo revela a trajetória da participação feminina nas duas regiões comparadas, baseada na agregação dos microdados do INEP.
 
 <img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2010" src="https://github.com/user-attachments/assets/163fbdfd-0296-4b67-b1a5-4e91cf2d8265" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2011" src="https://github.com/user-attachments/assets/3d4df8f1-0197-4563-b9a0-2ee99ade3bfb" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2012" src="https://github.com/user-attachments/assets/056e59ef-7b48-437c-bb98-d0a0330bb659" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2013" src="https://github.com/user-attachments/assets/68bd6c27-7642-44c8-bcc8-15ae22f5590d" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2014" src="https://github.com/user-attachments/assets/f32171f9-94d3-4208-98d4-973117d53e19" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2015" src="https://github.com/user-attachments/assets/5508d082-e874-464d-8129-34f2e98d4c60" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2016" src="https://github.com/user-attachments/assets/bae1b1ff-ed96-4dac-9413-9fde1151702a" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2017" src="https://github.com/user-attachments/assets/a2b7cd5e-01bd-4c88-b44a-29777ffbc2e7" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2018" src="https://github.com/user-attachments/assets/f60ac36a-1d6a-4616-b208-ca7dc17a9f7b" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2019" src="https://github.com/user-attachments/assets/0fa7d3ad-913c-414f-be23-736be093e69d" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2020" src="https://github.com/user-attachments/assets/38fe4538-bf60-4822-9eb3-40e5cbe65e39" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2021" src="https://github.com/user-attachments/assets/19080ae2-33f7-402f-ae0f-794aa6ca40b1" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2022" src="https://github.com/user-attachments/assets/e6ba8002-44b4-4eda-9380-cc1131d52cde" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2023" src="https://github.com/user-attachments/assets/79022c55-c882-47f3-afba-e72a5884ee2a" />
+<img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2024" src="https://github.com/user-attachments/assets/eac81d6d-f7b2-4f28-8e6f-47a8a4bd23c1" />
+
+
+
+
+
+
 
 
 
