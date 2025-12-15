@@ -63,6 +63,11 @@ A linha do tempo abaixo revela a trajetória da participação feminina nas duas
 <img width="1500" height="900" alt="microrregiao_Nordeste_Pública_2024" src="https://github.com/user-attachments/assets/30208d94-0da7-4a96-beab-4bd77ec17447" />
 
 <img width="1500" height="900" alt="pct_mulheres_stem_tipo_IES_2024" src="https://github.com/user-attachments/assets/0479e4f0-7c0c-4791-a2ca-e838f71fd022" />
+
+- **Nordeste à Frente**: Historicamente (de 2010 a 2024), o Nordeste (linha laranja) manteve uma proporção de mulheres em STEM consistentemente maior que o Sudeste (linha azul). Isso quebra o estereótipo de que regiões mais ricas (Sudeste) teriam indicadores de diversidade melhores.
+
+- **A Queda Geral**: Note que ambas as linhas estão caindo desde 2016/2017. A participação feminina parece estar regredindo nos últimos anos.
+  
 <img width="1500" height="900" alt="evolucao_pct_mulheres_stem_NE_SE" src="https://github.com/user-attachments/assets/809a5c84-b067-4163-b9ac-fe4d4ae4892d" />
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/d1a96b59-26f3-48d8-bf2d-d66dd95a9ee2" />
 
