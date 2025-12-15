@@ -1,25 +1,39 @@
 # Geografia da Desigualdade: Um Estudo de Clusters sobre a Participação Feminina em STEM no Nordeste vs. Sudeste
+Geografia da Desigualdade
+Participação feminina em cursos de STEM no ensino superior brasileiro
+Nordeste vs. Sudeste | 2010–2024
 
-Este repositório apresenta uma análise de dados focada na disparidade de gênero em cursos de STEM (Science, Technology, Engineering, and Mathematics) no ensino superior brasileiro. O estudo investiga a desigualdade espacial, contrastando a representatividade feminina em grandes polos ("Município") versus seu entorno regional ("Microrregião"), além de traçar a evolução histórica e as diferenças entre o ensino Público e Privado com dados atualizados até 2024.
+Este repositório apresenta uma análise de dados sobre a desigualdade de gênero em cursos de STEM no ensino superior brasileiro. O foco está na participação feminina, considerando diferenças regionais entre Nordeste e Sudeste, o papel da localização geográfica e as distinções entre instituições públicas e privadas.
 
-A sub-representação feminina nas áreas de Ciência, Tecnologia, Engenharia e Matemática (STEM) é um fenômeno global, mas que assume nuances específicas quando analisado sob a ótica das desigualdades regionais brasileiras. Este estudo propõe uma análise comparativa entre as regiões Nordeste e Sudeste do Brasil, investigando como a localização geográfica e fatores socioeconômicos correlacionam-se com a inserção de mulheres no ensino superior nessas áreas.
+A análise compara grandes polos educacionais com seus entornos regionais, usando município e microrregião como unidades de observação. Os dados utilizados cobrem o período de 2010 a 2024 e têm como principal fonte os microdados do Censo da Educação Superior do INEP.
 
-Utilizando dados abertos (como os do Censo da Educação Superior do INEP), a pesquisa aplica algoritmos de aprendizado de máquina não supervisionado — especificamente técnicas de Clusterização (como K-Means ou Hierarchical Clustering) — para identificar padrões latentes de matrícula e conclusão de cursos. O objetivo é segmentar instituições ou microrregiões em grupos homogêneos baseados no Índice de Paridade de Gênero (IPG), permitindo identificar se o desenvolvimento econômico do Sudeste se traduz efetivamente em maior equidade de gênero ou se o Nordeste apresenta "ilhas" de paridade que desafiam as tendências macroeconômicas. Os resultados visam fornecer subsídios baseados em dados para políticas públicas educacionais mais assertivas e regionalizadas.
+Objetivo geral
 
-## 🎯 Objetivo Geral
+Mapear e comparar padrões de participação feminina em cursos de STEM nas regiões Nordeste e Sudeste, identificando perfis semelhantes por meio de técnicas de clusterização.
 
-Mapear e comparar os padrões de participação feminina em cursos de STEM nas instituições de ensino superior das regiões Nordeste e Sudeste, utilizando técnicas de agrupamento (clustering) para identificar perfis de equidade de gênero.
+Objetivos específicos
 
-##  Objetivos Específicos
+Consolidar e tratar bases públicas como INEP e IBGE, filtrando cursos de STEM por gênero, localização e tipo de instituição.
 
-- **Coleta e Tratamento de Dados**: Consolidar e limpar bases de dados públicas (ex: INEP, IBGE), filtrando cursos classificados como STEM e segregando os dados por gênero, localização geográfica (UF/Município) e tipo de instituição (Pública/Privada).✅ 
-- **Temporal**: Mapear a evolução da participação feminina ao longo de 14 anos (2010-2024).✅ 
-- **Espacial**: Identificar se a inclusão é difusa (capilarizada na região) ou concentrada ("ilhas de excelência").✅ 
-- **Setorial**: Comparar o desempenho de instituições Públicas e Privadas nas microrregiões, com foco em 2024.✅ 
-- **Análise Exploratória (EDA)**: Realizar um diagnóstico inicial para comparar as médias simples de ingresso e conclusão de mulheres em STEM entre o Nordeste e o Sudeste, visualizando as discrepâncias absolutas.
-- **Segmentação por Clusters**: Aplicar algoritmos de clusterização para agrupar microrregiões ou instituições que possuam comportamentos semelhantes quanto à presença feminina, independentemente de sua localização geográfica inicial.
-- **Caracterização dos Perfis**: Analisar os centróides dos clusters formados para entender quais variáveis (ex: IDH do município, gratuidade do curso, modalidade EAD vs. Presencial) são determinantes para a formação de grupos com maior ou menor equidade.
-- **Visualização Geoespacial**: Plotar os clusters em mapas cartográficos para identificar visualmente a "mancha" da desigualdade e verificar se existem concentrações espaciais de alta ou baixa participação feminina.
+Analisar a evolução temporal da participação feminina entre 2010 e 2024.
+
+Avaliar a distribuição espacial da inclusão, identificando concentração ou dispersão regional.
+
+Comparar instituições públicas e privadas, com foco especial no ano de 2024.
+
+Realizar análise exploratória dos dados para comparação direta entre as regiões.
+
+Aplicar algoritmos de clusterização para agrupar microrregiões ou municípios com comportamentos semelhantes.
+
+Caracterizar os grupos formados a partir de variáveis socioeconômicas e educacionais.
+
+Visualizar os resultados em mapas e gráficos comparativos.
+
+Metodologia
+
+A abordagem combina análise exploratória de dados com técnicas de aprendizado de máquina não supervisionado. Foram utilizados métodos de clusterização, como K-Means, para identificar padrões latentes na participação feminina em STEM.
+
+A principal métrica analisada é o percentual de mulheres matriculadas em cursos de STEM, além do volume total de matrículas e da proporção entre instituições públicas e privadas.
 
 ## 📈 1. A Visão Macro: Evolução Temporal (2010-2024)
 
