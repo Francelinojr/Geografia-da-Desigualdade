@@ -28,10 +28,17 @@ A linha do tempo abaixo revela a trajetória da participação feminina nas duas
 <img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2023" src="https://github.com/user-attachments/assets/79022c55-c882-47f3-afba-e72a5884ee2a" />
 <img width="1500" height="900" alt="comparacao_municipio_vs_microrregiao_2024" src="https://github.com/user-attachments/assets/eac81d6d-f7b2-4f28-8e6f-47a8a4bd23c1" />
 
+## Microregião Sudeste Publica e Privada 2024
+
 <img width="1500" height="900" alt="microrregiao_Sudeste_Privada_2024" src="https://github.com/user-attachments/assets/386f9fd9-7af7-445f-85bf-464b90ffe1db" />
 <img width="1500" height="900" alt="microrregiao_Sudeste_Pública_2024" src="https://github.com/user-attachments/assets/cfd80dc5-e7b5-41ba-9b2b-77dfc1221742" />
+
+
+## Microregião Nordeste Publica e Privada 2024
+
 <img width="1500" height="900" alt="microrregiao_Nordeste_Privada_2024" src="https://github.com/user-attachments/assets/39a48c49-15c0-436f-b6a9-94546531f19d" />
 <img width="1500" height="900" alt="microrregiao_Nordeste_Pública_2024" src="https://github.com/user-attachments/assets/30208d94-0da7-4a96-beab-4bd77ec17447" />
+
 <img width="1500" height="900" alt="pct_mulheres_stem_tipo_IES_2024" src="https://github.com/user-attachments/assets/0479e4f0-7c0c-4791-a2ca-e838f71fd022" />
 <img width="1500" height="900" alt="evolucao_pct_mulheres_stem_NE_SE" src="https://github.com/user-attachments/assets/809a5c84-b067-4163-b9ac-fe4d4ae4892d" />
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/d1a96b59-26f3-48d8-bf2d-d66dd95a9ee2" />
