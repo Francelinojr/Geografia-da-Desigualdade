@@ -43,11 +43,21 @@ A linha do tempo abaixo revela a trajetória da participação feminina nas duas
 
 ## Microregião Sudeste Publica e Privada 2024
 
+- **A "Exceção à Regra"**: Se você olhar para a barra no topo, Itaguaí é o destaque. É a única microrregião nessa lista onde as mulheres são a maioria (a barra passa um pouco dos 50%). Isso é algo raro em cursos de exatas, que historicamente têm mais homens.
+- **A Realidade Geral**: Descendo a lista, vemos cidades universitárias famosas como Viçosa e São Carlos. Nelas, a participação feminina é forte, mas ainda não chega à metade (fica entre 35% e 45%).
+- **O Resumo**: Esse gráfico nos mostra que, no setor público dessa região, a paridade de gênero (50/50) ainda é uma meta a ser alcançada na maioria dos lugares.
+
 <img width="1500" height="900" alt="microrregiao_Sudeste_Privada_2024" src="https://github.com/user-attachments/assets/386f9fd9-7af7-445f-85bf-464b90ffe1db" />
+
+- **Números Surpreendentes**: A primeira coisa que chama a atenção é o tamanho das barras. Em Belém, por exemplo, o gráfico indica que mais de 70% dos estudantes em STEM são mulheres. Isso é um número altíssimo e muito diferente do padrão que costumamos ver.
+
+- **Várias cidades acima de 50%**: Diferente do gráfico público, aqui temos várias regiões (como Goiânia e Guanhães) onde as mulheres são a clara maioria.
+
 <img width="1500" height="900" alt="microrregiao_Sudeste_Pública_2024" src="https://github.com/user-attachments/assets/cfd80dc5-e7b5-41ba-9b2b-77dfc1221742" />
 
 
 ## Microregião Nordeste Publica e Privada 2024
+
 
 <img width="1500" height="900" alt="microrregiao_Nordeste_Privada_2024" src="https://github.com/user-attachments/assets/39a48c49-15c0-436f-b6a9-94546531f19d" />
 <img width="1500" height="900" alt="microrregiao_Nordeste_Pública_2024" src="https://github.com/user-attachments/assets/30208d94-0da7-4a96-beab-4bd77ec17447" />
