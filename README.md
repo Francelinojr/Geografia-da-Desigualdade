@@ -1,4 +1,4 @@
-# Geografia da Desigualdade: A Dinâmica da Mulher em STEM (Nordeste vs. Sudeste | 2010-2024)
+# Geografia da Desigualdade: Um Estudo de Clusters sobre a Participação Feminina em STEM no Nordeste vs. Sudeste
 
 Este repositório apresenta uma análise de dados focada na disparidade de gênero em cursos de STEM (Science, Technology, Engineering, and Mathematics) no ensino superior brasileiro. O estudo investiga a desigualdade espacial, contrastando a representatividade feminina em grandes polos ("Município") versus seu entorno regional ("Microrregião"), além de traçar a evolução histórica e as diferenças entre o ensino Público e Privado com dados atualizados até 2024.
 
