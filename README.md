@@ -2,6 +2,10 @@
 
 Este repositório apresenta uma análise de dados focada na disparidade de gênero em cursos de STEM (Science, Technology, Engineering, and Mathematics) no ensino superior brasileiro. O estudo investiga a desigualdade espacial, contrastando a representatividade feminina em grandes polos ("Município") versus seu entorno regional ("Microrregião"), além de traçar a evolução histórica e as diferenças entre o ensino Público e Privado com dados atualizados até 2024.
 
+A sub-representação feminina nas áreas de Ciência, Tecnologia, Engenharia e Matemática (STEM) é um fenômeno global, mas que assume nuances específicas quando analisado sob a ótica das desigualdades regionais brasileiras. Este estudo propõe uma análise comparativa entre as regiões Nordeste e Sudeste do Brasil, investigando como a localização geográfica e fatores socioeconômicos correlacionam-se com a inserção de mulheres no ensino superior nessas áreas.
+
+Utilizando dados abertos (como os do Censo da Educação Superior do INEP), a pesquisa aplica algoritmos de aprendizado de máquina não supervisionado — especificamente técnicas de Clusterização (como K-Means ou Hierarchical Clustering) — para identificar padrões latentes de matrícula e conclusão de cursos. O objetivo é segmentar instituições ou microrregiões em grupos homogêneos baseados no Índice de Paridade de Gênero (IPG), permitindo identificar se o desenvolvimento econômico do Sudeste se traduz efetivamente em maior equidade de gênero ou se o Nordeste apresenta "ilhas" de paridade que desafiam as tendências macroeconômicas. Os resultados visam fornecer subsídios baseados em dados para políticas públicas educacionais mais assertivas e regionalizadas.
+
 ## 🎯 Objetivos da Análise
 
 - **Temporal**: Mapear a evolução da participação feminina ao longo de 14 anos (2010-2024).
