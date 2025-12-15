@@ -6,11 +6,20 @@ A sub-representação feminina nas áreas de Ciência, Tecnologia, Engenharia e 
 
 Utilizando dados abertos (como os do Censo da Educação Superior do INEP), a pesquisa aplica algoritmos de aprendizado de máquina não supervisionado — especificamente técnicas de Clusterização (como K-Means ou Hierarchical Clustering) — para identificar padrões latentes de matrícula e conclusão de cursos. O objetivo é segmentar instituições ou microrregiões em grupos homogêneos baseados no Índice de Paridade de Gênero (IPG), permitindo identificar se o desenvolvimento econômico do Sudeste se traduz efetivamente em maior equidade de gênero ou se o Nordeste apresenta "ilhas" de paridade que desafiam as tendências macroeconômicas. Os resultados visam fornecer subsídios baseados em dados para políticas públicas educacionais mais assertivas e regionalizadas.
 
-## 🎯 Objetivos da Análise
+## 🎯 Objetivo Geral
 
-- **Temporal**: Mapear a evolução da participação feminina ao longo de 14 anos (2010-2024).
-- **Espacial**: Identificar se a inclusão é difusa (capilarizada na região) ou concentrada ("ilhas de excelência").
-- **Setorial**: Comparar o desempenho de instituições Públicas e Privadas nas microrregiões, com foco em 2024.
+Mapear e comparar os padrões de participação feminina em cursos de STEM nas instituições de ensino superior das regiões Nordeste e Sudeste, utilizando técnicas de agrupamento (clustering) para identificar perfis de equidade de gênero.
+
+##  Objetivos Específicos
+
+- **Coleta e Tratamento de Dados**: Consolidar e limpar bases de dados públicas (ex: INEP, IBGE), filtrando cursos classificados como STEM e segregando os dados por gênero, localização geográfica (UF/Município) e tipo de instituição (Pública/Privada).✅ 
+- **Temporal**: Mapear a evolução da participação feminina ao longo de 14 anos (2010-2024).✅ 
+- **Espacial**: Identificar se a inclusão é difusa (capilarizada na região) ou concentrada ("ilhas de excelência").✅ 
+- **Setorial**: Comparar o desempenho de instituições Públicas e Privadas nas microrregiões, com foco em 2024.✅ 
+- **Análise Exploratória (EDA)**: Realizar um diagnóstico inicial para comparar as médias simples de ingresso e conclusão de mulheres em STEM entre o Nordeste e o Sudeste, visualizando as discrepâncias absolutas.
+- **Segmentação por Clusters**: Aplicar algoritmos de clusterização para agrupar microrregiões ou instituições que possuam comportamentos semelhantes quanto à presença feminina, independentemente de sua localização geográfica inicial.
+- **Caracterização dos Perfis**: Analisar os centróides dos clusters formados para entender quais variáveis (ex: IDH do município, gratuidade do curso, modalidade EAD vs. Presencial) são determinantes para a formação de grupos com maior ou menor equidade.
+- **Visualização Geoespacial**: Plotar os clusters em mapas cartográficos para identificar visualmente a "mancha" da desigualdade e verificar se existem concentrações espaciais de alta ou baixa participação feminina.
 
 ## 📈 1. A Visão Macro: Evolução Temporal (2010-2024)
 
